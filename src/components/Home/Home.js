@@ -1,6 +1,7 @@
 import React from 'react';
 import CustomerReviewSection from '../CustomerReviewSection/CustomerReviewSection';
 import IntroductionSection from '../IntroductionSection/IntroductionSection';
+import WhatISContextAPI from '../WhatISContextAPI/WhatISContextAPI';
 
 const Home = () => {
     return (
@@ -9,6 +10,7 @@ const Home = () => {
                 <IntroductionSection></IntroductionSection>
             </div>
             <CustomerReviewSection></CustomerReviewSection>
+            <WhatISContextAPI></WhatISContextAPI>
         </div>
     );
 };
