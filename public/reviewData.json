@@ -1,0 +1,44 @@
+[
+    {
+        "id": "6249cc7252946e4887825bb4",
+        "picture": "http://placehold.it/32x32",
+        "name": "West Pruitt",
+        "rating": 5.0,
+        "review": "I LOVE this app, best notetaking app out there.This is the best notetaking app ever. I'm an AP and Honors student in highschool, and I live for this app. Since doing online school this year due to the pandemic, it has changed how I take notes and turned in assignment. I love how GoodNotes is uploaded to the cloud so you can look at your notes no matter where you are or what device you are on. I like typing my science notes on my computer, and I love that I can switch over to my IPad to draw graphs and symbols whenever needed."
+    },
+    {
+        "id": "6249cc72682003095d1ef41a",
+        "picture": "http://placehold.it/32x32",
+        "name": "Goldie Holder",
+        "rating": 4.8,
+        "review": "I absolutely love this app. I use this more for pdf creation and personal journaling than anything else. If I were to add or change anything, it would be to include a colored pencil or crayon writing utensil among the hi-liter, and various pen-pen, brush-pen, etc. I may be mistaken, but doesn’t the primary photo used to advertise GoodNotes is, in fact, written and drawn with what looks to be a colored pencil. How odd that is not a function."
+    },
+    {
+        "id": "6249cc72da1d4b844cfaa90d",
+        "picture": "http://placehold.it/32x32",
+        "name": "Butler Shelton",
+        "rating": 5.0,
+        "review": "After using different applications of this style, I think that GoodNotes (specifically version 5) has the best classification system and is the closest thing to taking notes by hand. I love it! I use it every day. I love how customizable and flexible Goodnotes is, it is by far the easiest app to use I have found. I love to make lists and keep different notebooks for various client projects."
+    },
+    {
+        "id": "6249cc7265b633b5f4c62767",
+        "picture": "http://placehold.it/32x32",
+        "name": "Myrna Foley",
+        "rating": 4.7,
+        "review": "I really like that I can set-up various notebooks and I can easily move between them. For example, I have my daily morning journal, my notes related to a course I'm taking, and notes I've jotted during a client call. I don't have to carry or go looking for actual books or slips of paper. They are always with me! I wish you could set the page size. I like to use all 8.5 x 11 paper, but some pages are smaller than others and I have to constantly change my pen thickness."
+    },
+    {
+        "id": "6249cc72d7f661fc1af7b0b0",
+        "picture": "http://placehold.it/32x32",
+        "name": "Odonnell Wong",
+        "rating": 5.0,
+        "review": "The best thing is the near-perfect search. It can convert to text the messiest handwriting, and the search feature is the best of all note-taking apps I've tried. There are tons of custom layouts and options, and there's ease switching between tablet, phone, and computer. I like that I can import and store files and documents. But I like that I can directly write on the document I have uploaded or create a notebook with different templates to fit my specific needs."
+    },
+    {
+        "id": "6249cc7294928d3372a2d800",
+        "picture": "http://placehold.it/32x32",
+        "name": "Tia Perry",
+        "rating": 4.5,
+        "review": "There are different note templates available which I tend to change based on the class I'm taking. When I was in a statistics course, the grid paper came in hand. When I was in a basic read the text and take notes kind of course, the lined paper or even blank paper worked great! The downside of Goodnotes is that to get it to run on a PC you have to download an emulator application. I have not ventured out to give this route a try but if you're willing to do so - it'll make the app much more functional being able to switch between PC and Mac."
+    }
+]
