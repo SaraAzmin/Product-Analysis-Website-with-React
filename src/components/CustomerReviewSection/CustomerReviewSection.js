@@ -10,16 +10,16 @@ const CustomerReviewSection = () => {
     const threeReviews = reviews.slice(0, 3);
 
     return (
-        <div className='mx-20'>
-            <h2 className='text-4xl pt-10 font-semibold'>Customer Reviews</h2>
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 py-10'>
+        <div className='mx-10 md:mx-20'>
+            <h2 className='text-2xl md:text-4xl pt-5 md:pt-10 font-semibold'>Customer Reviews</h2>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 py-5 md:py-10'>
                 {
 
                     threeReviews.map(review => <Review key={review.id} review={review}></Review>)
                 }
             </div>
             <Link to="/reviews">
-                <button className='bg-indigo-800 text-white py-4 px-8 mb-10 rounded-lg hover:bg-indigo-400 font-semibold'>See All Reviews</button>
+                <button className='bg-indigo-800 text-white py-4 px-8 mb-5 md:mb-10 rounded-lg hover:bg-indigo-400 font-semibold'>See All Reviews</button>
 
             </Link>
 

@@ -6,8 +6,8 @@ import MyPieChart from '../MyPieChart/MyPieChart';
 
 const Dashboard = () => {
     return (
-        <div className='mx-20'>
-            <div className='grid grid-cols-1 lg:grid-cols-2 gap-14 py-10'>
+        <div className='mx-10 md:mx-20'>
+            <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-14 py-5 md:py-10'>
                 <MyLineChart></MyLineChart>
                 <MyAreaChart></MyAreaChart>
                 <MyBarChart></MyBarChart>
