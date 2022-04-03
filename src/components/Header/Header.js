@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className='p-7 mb-10 bg-indigo-400 text-white font-serif'>
+        <div className='p-7 mb-10 bg-indigo-200 text-indigo-900 font-serif'>
             <nav>
                 <Link className='text-lg font-semibold' to="/home">Home</Link>
                 <Link className='mx-8 text-lg font-semibold' to="/reviews">Reviews</Link>
