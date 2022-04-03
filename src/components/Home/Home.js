@@ -1,4 +1,5 @@
 import React from 'react';
+import CustomerReviewSection from '../CustomerReviewSection/CustomerReviewSection';
 import IntroductionSection from '../IntroductionSection/IntroductionSection';
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
             <div className='bg-indigo-50'>
                 <IntroductionSection></IntroductionSection>
             </div>
+            <CustomerReviewSection></CustomerReviewSection>
         </div>
     );
 };
